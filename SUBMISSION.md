@@ -1,6 +1,8 @@
 # Submission: Ajaia Docs
 
-**Live app:** LIVE_URL_HERE
+**Live app:** https://ajaia-three-theta.vercel.app/
+**GitHub:** https://github.com/mahamsultana/ajaia
+**Google Drive folder:** https://drive.google.com/drive/u/0/folders/1b0zGofpnPNrrq4tgpspS4mzE0gnUQNux
 **Walkthrough video:** VIDEO_URL_HERE (also in `VIDEO_URL.txt`)
 
 ## Test accounts (no password, pick on the login screen)
@@ -22,6 +24,7 @@
 | Screenshots | `screenshots/` |
 | Sample upload files | `samples/` (.md, .txt, .docx) |
 | Env template | `.env.example` |
+| License (evaluation use only) | `LICENSE` |
 
 ## Status
 
