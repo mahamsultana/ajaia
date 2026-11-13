@@ -1,0 +1,6 @@
+Plain text import
+
+First paragraph line one
+line two
+
+Second paragraph.
