@@ -1,9 +1,9 @@
 # Submission: Ajaia Docs
 
-**Live app:** https://ajaia-three-theta.vercel.app/
-**GitHub:** https://github.com/mahamsultana/ajaia
-**Google Drive folder:** https://drive.google.com/drive/u/0/folders/1b0zGofpnPNrrq4tgpspS4mzE0gnUQNux
-**Walkthrough video:** VIDEO_URL_HERE (also in `VIDEO_URL.txt`)
+- **Live app:** https://ajaia-three-theta.vercel.app/
+- **GitHub:** https://github.com/mahamsultana/ajaia
+- **Google Drive folder:** https://drive.google.com/drive/u/0/folders/1b0zGofpnPNrrq4tgpspS4mzE0gnUQNux
+- **Walkthrough video:** https://www.awesomescreenshot.com/video/58330151?key=18b9dd2d9e8e5701bdb2d5ba68765bb4 (also in `VIDEO_URL.txt`)
 
 ## Test accounts (no password, pick on the login screen)
 

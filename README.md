@@ -2,9 +2,11 @@
 
 A lightweight collaborative document editor: create, format, import, share and reopen documents in the browser.
 
-**Live app:** https://ajaia-three-theta.vercel.app/
-**GitHub:** https://github.com/mahamsultana/ajaia
-**Google Drive folder:** https://drive.google.com/drive/u/0/folders/1b0zGofpnPNrrq4tgpspS4mzE0gnUQNux
+- **Live app:** https://ajaia-three-theta.vercel.app/
+- **GitHub:** https://github.com/mahamsultana/ajaia
+- **Google Drive folder:** https://drive.google.com/drive/u/0/folders/1b0zGofpnPNrrq4tgpspS4mzE0gnUQNux
+- **Walkthrough video:** https://www.awesomescreenshot.com/video/58330151?key=18b9dd2d9e8e5701bdb2d5ba68765bb4
+
 **Demo accounts** (no password, pick one on the login screen):
 
 | User | Email | Seeded data |
